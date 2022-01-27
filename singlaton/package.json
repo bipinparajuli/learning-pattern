@@ -1,0 +1,16 @@
+{
+  "name": "learning-patterns",
+  "version": "1.0.0",
+  "description": "Sample for singlaton pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "bipin",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.11",
+    "@types/jest": "^27.4.0",
+    "jest": "^27.4.7"
+  }
+}
